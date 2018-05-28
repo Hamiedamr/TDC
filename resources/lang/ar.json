@@ -1,0 +1,81 @@
+{
+
+//common translations
+"Required Fields":"الحقول المطلوبة",
+"Save":"حفظ",
+"Cancel":"الغاء",
+
+
+  //Header part
+  "The Training and Development Center of Ain Shams University": "مركز التدريب و التطوير بجامعة عين شمس",
+  "(Developing the capabilities of teaching staff and former leaders center)": "(مركز تنمية قدرات اعضاء هيئة التدريس و القيادات سابقا)",
+  
+  //Navbar part
+  "HOME":"الرئيسية",
+  "ABOUT US":"",
+  "OUR STAFF":"",
+  "TDC NEWS":"",
+  "BOOKING PORTAL":"",
+
+  //Footer part
+   "Pharonic Building (University students Hostel) off Al-Khalifa El Mamoun Street.Abbassia":"المبني الفرعوني (المدينة الجامعية طلبة) من الخليفة المأمون- العباسية",
+   "Phone: 0224840163 - 01020309712":"التليفون: 0224840163 - 01020309712",
+   "Fax: 24665584":"الفاكس: 24665584",
+   "Post no.: 11566":"الرقم البريدي: 11566",
+   "E-mail: hr.tdcenter@asu.edu.eg":"العنوان البريدي: hr.tdcenter@asu.edu.eg",
+   "Website: www.tdcenter.link":"الموقع الإلكتروني: www.tdcenter.link",
+  
+//University part
+"Add University":"إضافة جامعة",
+"Arabic Name":"الإسم العربي",
+"enter arabic name":"ادخل الأسم بالعربية",
+"English Name":"الإسم الإنجليزي",
+"Address":"العنوان",
+"enter english name":"ادخل الأسم بالأنجليزية",
+"enter address":"ادخل العنوان",
+"Edit University":"تعديل جامعة",
+"Edit":"تعديل",
+"Universities List":"قائمة الجامعات",
+"#":"#",
+"University":"الجامعة",
+"Colleges":"الكليات"
+
+//College part
+
+
+//Department part
+
+
+//Main Program part
+
+//Courses part
+
+
+
+//Halls part
+
+
+
+//Training part
+
+
+
+//Lectures part
+
+
+
+//Attendance part
+
+
+
+//Trainer part
+
+
+
+
+//Trainee part
+
+
+
+
+}

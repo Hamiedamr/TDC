@@ -1,0 +1,103 @@
+.form-horizontal .form
+{
+    border: 2px solid #0d3e7d;
+    border-radius: 20px;
+    margin-top:70px;
+	background-color: rgb(235, 238, 241);
+    
+}
+.form-horizontal .heading
+{
+    margin-top:10px;
+    margin-bottom:25px;
+    font-size:30px;
+    text-align: center;
+    font-weight: bolder;
+    padding: 5px;
+    
+}
+.starstart
+{
+    color:red;
+    font-size:30px;
+    font-weight:bolder;    
+     float: right;
+     margin-right: 480px;
+}
+.starend
+{
+    color:red;
+    font-size:30px;
+    font-weight:bolder;    
+     float: right;
+     margin-right: 480px;
+}
+
+#myTable
+{
+    width: 100%;
+    margin-top:10px;
+    margin-bottom: 20px;
+    text-align: left;
+    table-layout: fixed;
+    
+}
+#myTable .row tr th
+{
+    background-color:black;
+    color: white;
+    height:50px;
+    font-size: 20px;
+    padding: 10px;
+}
+tr:nth-child(even) 
+{
+    background: rgb(228, 226, 226)
+}
+tr:nth-child(odd) 
+{
+    background: #FFF
+}
+
+#contentBody td
+{
+    height:50px;
+    font-size:18px;
+    text-align: left;
+    padding: 10px;
+}
+
+
+
+/*icon file of button display */
+.fa-file
+{
+    margin-right:5px;
+}
+
+.btn
+{
+    font-size: 15px;
+    color:#fff;
+    font-weight: bolder;
+}
+
+.highlight {
+    background-color: Yellow;
+    color: Green;
+   }
+
+
+   label .lbtext
+   {
+      width: auto; 
+      display: inline-block;
+      text-align: left;
+    
+   }
+   label
+   {
+       font-size:16px;
+       text-align: center;
+   
+   }

@@ -1,0 +1,177 @@
+.form-horizontal .form
+{
+    border: 2px solid #0d3e7d;
+    border-radius: 20px;
+    margin-top:70px;
+    background-color: rgb(235, 238, 241);
+    
+}
+.form-horizontal .heading
+{
+    margin-top:10px;
+    margin-bottom:25px;
+    text-align: center;
+    font-size:30px;
+    font-weight: bolder;
+    padding: 5px;
+}
+
+.label
+{
+   font-size: 16px;
+}
+
+btn:hover {
+    opacity:.85;
+    cursor: pointer; 
+ }
+.star
+{
+    color:red;
+    font-size:30px;
+    font-weight:bolder;    
+     float: right;
+     margin-top: 5px;
+     margin-right: -20px;
+}
+.hint{
+    color: red;
+    margin-left: 10px;
+    font-size:15px;
+}
+.hintstar
+{
+    color:red;
+    font-size:30px;
+    font-weight:bolder;    
+     float: left;
+    margin-top: -40px;
+    padding-top: 35px;
+}
+
+span .glyphicon
+{
+  color:white;
+}
+.input-group
+{
+    margin-bottom:5px;
+}
+.input-group-addon {
+     background-color: #337ab7;
+    -moz-background-color: #337ab7;
+    -o-background-color: #337ab7;
+    -ms-background-color: #337ab7;
+    -webkit-background-color: #337ab7;
+
+
+}
+
+.input-group .form-control {
+    position: relative;
+    z-index: 2;
+    float: left;
+    width: 100%;
+    margin-bottom: 0px;
+    height: 47px;
+}
+
+
+
+  label .lbtext
+ {
+    width: auto; 
+    display: inline-block;
+    text-align: left;
+  
+ }
+
+
+/* Set a style for all buttons */
+.btn {
+    
+  width:90%;
+  height:60%;
+  margin:5px;
+}
+.twitter
+{
+    background-color: #98e8ff;
+    color:#000;
+}
+.btn:hover {
+    opacity:1;
+    color:#fff;
+    font-weight:bolder;
+}
+
+/* Add a blue text color to links */
+a {
+    color: dodgerblue;
+}
+
+ ::-webkit-validation-bubble-message {
+    padding: 1em;
+ }
+ 
+ .form-horizontal .form input:focus:invalid
+ { 
+    background-image:#fff url('custom/images/wrong.png');
+    background-position: right;
+     background-repeat: no-repeat;
+    box-shadow: 0 0 5px #d45252;
+    border-color: #b03535;
+    
+    
+ }
+ .form-horizontal .form input:required:valid{ 
+    background-image: #fff url('custom/images/right.png');
+    background-position: right;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 5px #5cd053;
+    border-color: #28921f;
+ }
+ 
+ .form_hint {
+    background: #d45252;
+    border-radius: 3px 3px 3px 3px;
+    color: white;
+    margin-left:8px;
+    padding: 1px 6px;
+    z-index: 999;
+    position: absolute; 
+    display: none;
+    font-size: 16px;
+    width: 300px;
+ }
+
+
+ .form_hint::before {
+    content: "\25C0";
+    color:#d45252;
+    position: absolute;
+    top:1px;
+    left:-6px;
+ }
+ .form-horizontal .form input:focus + .form_hint 
+ {display: inline;}
+
+.form-horizontal .form input:required:valid + .form_hint 
+ {background: #28921f;} 
+    .form-horizontal .form input:required:valid + .form_hint::before 
+ { color:#28921f; }
+ 
+ 
+ 
+
+
+
+
+@media (max-width:600px)
+{
+    .form-horizontal{
+    margin:0 5px 0 5px;
+    }
+
+
+}

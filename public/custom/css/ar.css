@@ -1,0 +1,38 @@
+
+ .container form{
+    direction: rtl;
+}
+ /*
+Table RTL
+ */
+table {
+    direction: rtl;
+}
+table thead , table th {
+    text-align: center;
+}
+.table tbody , .table td {
+    text-align: right;
+}
+
+.btn .btn-success
+{
+    margin-right: 50%;
+}
+.btn .btn-danger
+{
+    margin-right: 70%;
+}
+select
+{
+    float: right;
+}
+
+@media (min-width: 768px) {
+    .form .control-label {
+        text-align: left;
+    }
+}
+
+
+

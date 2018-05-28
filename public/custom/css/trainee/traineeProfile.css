@@ -1,0 +1,93 @@
+.form-horizontal .form
+{
+    border: 2px solid #0d3e7d;
+    border-radius: 20px;
+    margin-top:70px;
+    background-color: rgb(235, 238, 241);
+
+}
+.form-horizontal .heading
+{
+    margin-top:10px;
+    margin-bottom:25px;
+    text-align: center;
+    font-size:30px;
+    font-weight: bolder;
+    padding: 5px;
+}
+
+
+
+.form-horizontal .form .profile .title
+{
+    color:#fff;
+    background-color: #0d3e7d;
+    border-radius:18px;
+    padding: 5px;
+    text-align: center;
+    font-weight:bold;
+    margin:10px;
+    font-size:20px;
+}
+.form-horizontal .form .profile .empty
+{
+    width:100%;
+}
+h2
+{
+    font-weight: bolder;
+}
+
+.glyphicon
+{
+    color:red;
+    font-size:40px;
+    font-weight: bolder;
+    margin:10px;
+
+}
+
+.icon 
+{
+    color:red;
+    font-size:20px;
+    font-weight: bold;
+    margin:10px;
+}
+.txt
+{
+   min-width:15%; 
+   float:left;
+   font-size:20px;
+   border: 1px solid rgb(230, 222, 222);
+  
+}
+.valuetxt
+{
+    width:100%;
+    height:43px;
+    float:left;
+    font-size:20px;
+    border: 1px solid rgb(230, 222, 222);
+    word-wrap:break-word;
+  
+}
+
+.form-group .licenceClass    
+{
+    width:500px;
+    background-color: rgb(225, 233, 230);
+    margin-left:20px;
+}
+.form-group .noteClass
+{
+    width:500px;
+    background-color: rgb(225, 233, 230);
+    margin-left:20px;
+}
+.form-group .rulesClass
+{
+    width:500px;
+    background-color: rgb(225, 233, 230);
+    margin-left:20px;
+}

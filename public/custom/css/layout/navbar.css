@@ -1,0 +1,22 @@
+  #navbar a {
+    float: right;
+    display: block;
+    color: #000;
+    font-weight: bold;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  #navbar a:hover {
+    background-color:#f1f1f1;
+    color: black;
+  }
+
+
+  .sticky {
+    position: fixed;
+    top: 300px;
+    width: 100%
+  }
